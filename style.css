@@ -4,4 +4,7 @@ body{
 li{
     display: inline;
 }
+a{
+    margin-right: 100px;
+}
 
