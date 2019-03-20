@@ -1,10 +1,25 @@
-body{
-    background-color: blue;
+html {
+    scroll-behavior: smooth;
 }
+
+
 li{
     display: inline;
 }
 a{
     margin-right: 100px;
 }
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+
+}
+.correct{
+    background-color: green;
+}
+.incorrect{
+    background-color: red;
+}
+
 
